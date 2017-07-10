@@ -1,0 +1,100 @@
+/*
+  AtomUI.css
+  CSS theme like Github's Atom for HTMl web applications.
+  Download Atom at: www.atom.io.
+  AtomUI Repository: www.github.com/TheLegitSlickCoder/AtomUI
+*/
+
+
+
+/* Make the body gray: */
+body {
+  background-color: rgb(45, 47, 55);
+}
+
+/* Align all div elements to the center: */
+div {
+  text-align: center;
+}
+
+/*
+  - Make all headings red.
+  - Make the font family of all headings arial.
+*/
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(255, 100, 100);
+  font-family: arial;
+}
+
+/*
+  - Make paragraphs and list items gray.
+  - Make the font family of all paragraphs and list items arial.
+*/
+p, li {
+  color: rgb(130, 130, 150);
+  font-family: arial;
+}
+
+/*
+  Textarea dimensions:
+  - width: 450 pixels.
+  - height: 180 pixels.
+*/
+textarea {
+  width: 450px;
+  height: 180px;
+}
+
+/*
+  Input dimensions:
+  - width: 450 pixels.
+  - height: 16 pixels.
+*/
+input {
+  width: 450px;
+  height: 16px;
+}
+
+/*
+  Input and textarea style:
+*/
+input, textarea {
+  border: none;
+  font-family: arial;
+  color: rgb(150, 150, 150);
+  background-color: rgb(35, 37, 45);
+}
+
+/* Button style: */
+button {
+  color: rgb(150, 150, 150);
+  background-color: rgb(35, 37, 45);
+  border: none;
+  font-family: arial;
+  font-size: 20px;
+}
+
+/* When the button is hovered: */
+button:hover {
+  color: rgb(255, 100, 100);
+}
+
+/* Link style: */
+a {
+  color: rgb(105, 115, 130);
+  text-decoration: none;
+  font-family: arial;
+}
+
+/* When the link is hovered: */
+a:hover {
+  color: rgb(100, 200, 130);
+  text-decoration: underline;
+}
+
+/* Code element style: */
+code {
+  color: rgb(130, 130, 150);
+  font-family: monospace;
+  font-size: 14px;
+}
