@@ -3,4 +3,4 @@
 
 <br>
 
-<img src="https://github.com/TheLegitSlickCoder/AtomUI/tree/master/screenshots/Screenshot (1).png">
+<h3 href= "https://github.com/TheLegitSlickCoder/AtomUI/tree/master/screenshots">Screenshots</h3>
